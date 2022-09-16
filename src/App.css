@@ -4,16 +4,19 @@ body {
 img {
   background-color: white;
 }
-.btn {
-  float: right;
-  padding: 10px 20px 10px 20px;
-  width: 10%;
-  margin-top: 150px;
-
+.App{
+  text-align: center;
+  text-align: -webkit-center;
 }
-.btn:hover{
-  color: green;
+.forms{
+  font-weight: bold;
 }
-.bulb{
-  border: 2px solid black;
+form input{
+  border-radius: 5px;
+}
+.btn{
+  width: 16%;
+}
+.heading{
+  color: rgb(46, 127, 127);
 }
